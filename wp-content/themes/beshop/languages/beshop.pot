@@ -1,0 +1,1506 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BeShop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-15 14:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#: inc/about/about.php:184
+msgid " Pro"
+msgstr ""
+
+#. %d: ID of a post.
+#: inc/class-beshop-walker-page.php:70
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#: inc/about/about.php:33
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. We want to make sure you have the "
+"best experience using the theme and that is why we gathered here all the "
+"necessary information for you. Thanks for using our theme!"
+msgstr ""
+
+#: inc/about/about.php:26 inc/about/about.php:28
+#, php-format
+msgid "%s Info"
+msgstr ""
+
+#. number of items in the mini cart.
+#: inc/woo-items/beshop-woocommerce.php:63
+#, php-format
+msgid "(%d)"
+msgid_plural "(%d)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/about/about.php:294
+msgid ""
+"<strong>Good News!! Beshop Pro version now available. If you want a "
+"beautiful, orderly, SEO friendly, more secure and unlimited options website "
+"then need to upgrade pro. Upgrade for lifetime with nominal price.<br>Also, "
+"the Pro version has One-click checkout, Products Quick view, Wishlist, "
+"unique custom homepage<br> and many more advanced options waiting for you!! "
+"So upgrade today !!!</strong>"
+msgstr ""
+
+#: inc/about/about.php:136
+msgid "Activate"
+msgstr ""
+
+#: inc/about/class.about.php:824
+msgid "Activating"
+msgstr ""
+
+#: inc/about/about.php:163
+msgid "Active Now"
+msgstr ""
+
+#: functions.php:151
+msgid "Add Footer widgets here."
+msgstr ""
+
+#: inc/customizer/customizer.php:501
+msgid "Add main menu top bottom padding."
+msgstr ""
+
+#: inc/woo-items/beshop-woocommerce.php:131
+msgid "Add shop widgets here."
+msgstr ""
+
+#: inc/about/about.php:96
+msgid "Add Widgets"
+msgstr ""
+
+#: functions.php:140
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/about/about.php:225
+msgid "Advance Shop options"
+msgstr ""
+
+#: inc/about/about.php:261
+msgid "Advanced Widgets"
+msgstr ""
+
+#: inc/customizer/customizer.php:858
+msgid "All Beshop theme footer settings in the panel"
+msgstr ""
+
+#: inc/about/about.php:77
+msgid "All recomended plugins"
+msgstr ""
+
+#: inc/about/about.php:133
+msgid "Already activated"
+msgstr ""
+
+#: inc/customizer/customizer.php:284
+msgid "Auto Height"
+msgstr ""
+
+#: inc/customizer/customizer.php:285
+msgid "Auto height only small devices"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:366
+msgid "Banner Text Color"
+msgstr ""
+
+#: inc/plugin-recomend.php:63
+msgid "BeBoost"
+msgstr ""
+
+#. Name of the theme
+msgid "BeShop"
+msgstr ""
+
+#: inc/customizer/customizer.php:684
+msgid "Beshop Blog"
+msgstr ""
+
+#: inc/customizer/customizer.php:948
+msgid "Beshop Footer Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:857
+msgid "Beshop footer settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:861
+msgid "Beshop Footer Top Settings"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:41
+msgid "BeShop General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:393
+msgid "Beshop Header Middle"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"BeShop is an awesome WordPress Shop and Blog Theme.It provides a very unique "
+"look with extra post layout. Beshop is a super fast WordPress theme. Best "
+"Suitable for creating any type of website such a blog, shop, store, car "
+"workshop, life coach,  barbershop, furniture shop, yoga, resume, charity, "
+"digital marketing, agency, etc. BeShop works with any of your favorite page "
+"builders like Elementor, Visual Composer, SiteOrigin, Divi, Brizy etc. "
+"BeShop WordPress has unlimited options and colors for customize your site or "
+"store. Try the beShop theme Now."
+msgstr ""
+
+#: inc/customizer/customizer.php:433
+msgid "Beshop Main Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:803
+msgid "Beshop Page"
+msgstr ""
+
+#: inc/about/about.php:298
+msgid "Beshop Pro Details"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:392
+msgid "BeShop Settings"
+msgstr ""
+
+#: template-parts/header/header-top.php:67
+msgid "Beshop Theme"
+msgstr ""
+
+#: template-parts/header/header-top.php:67
+msgid "Beshop Theme By"
+msgstr ""
+
+#: inc/customizer/customizer.php:28
+msgid "Beshop Theme typography"
+msgstr ""
+
+#: inc/about/about.php:87
+msgid ""
+"BeShop Theme uses Customizer API for theme options. The theme has huge "
+"options for customize your site. You can change theme typography, unlimited "
+"color, header style, blog style, products style and many more.You will be "
+"surprised to see so many options for free.  Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+msgid "Beshop Top bar"
+msgstr ""
+
+#: inc/about/about.php:51
+msgid "Beshop Video Tutorial"
+msgstr ""
+
+#: inc/customizer/customizer.php:615
+msgid "Body Font Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:79
+msgid "Body font line height"
+msgstr ""
+
+#: inc/customizer/customizer.php:64
+msgid "Body font size"
+msgstr ""
+
+#: inc/customizer/customizer.php:123
+msgid "Bold"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:139
+msgid "Breadcrump Background Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:124
+msgid "Breadcrump Text Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:333
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:318
+msgid "Button Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:110 inc/woo-items/customizer-woo.php:160
+#: inc/woo-items/customizer-woo.php:352 inc/woo-items/customizer-woo.php:466
+#: inc/woo-items/customizer-woo.php:500
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/customizer.php:743
+msgid "Classic Style"
+msgstr ""
+
+#: inc/plugin-recomend.php:73
+msgid "Click top"
+msgstr ""
+
+#: inc/woo-items/beshop-woocommerce.php:114
+msgid "Close"
+msgstr ""
+
+#: template-parts/header/header-main-menu.php:25
+msgid "Close Menu"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-recomend.php:93
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/about/about.php:121 inc/about/about.php:124
+msgid "Contact Support"
+msgstr ""
+
+#: inc/customizer/customizer.php:698
+msgid "Container type"
+msgstr ""
+
+#: inc/customizer/customizer.php:630
+msgid "Content Background Color"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:45
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Copyright date format, see https://www.php.net/date
+#: footer.php:33
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/customizer.php:53 inc/customizer/customizer.php:105
+msgid "Crimson Text"
+msgstr ""
+
+#: inc/about/about.php:255
+msgid "Custom Elementor Blog Addons"
+msgstr ""
+
+#: inc/about/about.php:249
+msgid "Custom Elementor Products Addons"
+msgstr ""
+
+#: inc/about/about.php:88
+msgid "Customize"
+msgstr ""
+
+#: inc/about/about.php:137
+msgid "Deactivate"
+msgstr ""
+
+#: inc/customizer/customizer.php:65
+msgid "Default body font size is 14px"
+msgstr ""
+
+#: inc/customizer/customizer.php:80
+msgid "Default body line height is 24px"
+msgstr ""
+
+#: inc/about/about.php:298
+msgid "Dismiss the notice"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:90
+msgid "Display Shop Breadcrumb"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:211
+msgid "Display Shop Page banner"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:886
+msgid "Email field"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:245
+msgid "Enter your home image title here. The title only show in home page"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:289
+msgid "Enter your shop banner button text."
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:303
+msgid ""
+"Enter your shop banner button url. Leave empty if you don't want to use the "
+"button."
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:275
+msgid ""
+"Enter your shop banner description. Leave empty if don't show the title."
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:261
+msgid "Enter your shop banner title. Leave empty if don't show the title."
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:447
+msgid "Enter your shop page title. Leave empty if you don't want the title."
+msgstr ""
+
+#: inc/customizer/customizer.php:161
+msgid ""
+"Enter your website welcome text. Leave empty if you don't want the text."
+msgstr ""
+
+#: inc/customizer/customizer.php:124
+msgid "Extra Bold"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:588
+msgid "Five Products"
+msgstr ""
+
+#: inc/customizer/customizer.php:283
+msgid "Fixed Height"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:748
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:965
+msgid "Footer background color."
+msgstr ""
+
+#: inc/customizer/customizer.php:995
+msgid "Footer Link Hover color."
+msgstr ""
+
+#: inc/customizer/customizer.php:980
+msgid "Footer text color."
+msgstr ""
+
+#: inc/customizer/customizer.php:893
+msgid "Footer top background color."
+msgstr ""
+
+#: inc/customizer/customizer.php:941
+msgid "Footer Top Widget Link hover Color."
+msgstr ""
+
+#: inc/customizer/customizer.php:925
+msgid "Footer Top Widget Text Color."
+msgstr ""
+
+#: inc/customizer/customizer.php:909
+msgid "Footer Top Widget Title Color."
+msgstr ""
+
+#: functions.php:149
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:589
+msgid "Four Products"
+msgstr ""
+
+#: inc/about/about.php:40
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:724 inc/customizer/customizer.php:843
+#: inc/woo-items/customizer-woo.php:433
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:705 inc/woo-items/customizer-woo.php:414
+msgid "Full width Container"
+msgstr ""
+
+#: inc/customizer/customizer.php:824
+msgid "Full width Page Container"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Template"
+msgstr ""
+
+#: inc/about/about.php:189
+msgid "Fully Responsive Layout"
+msgstr ""
+
+#: inc/about/about.php:207
+msgid "Fully WooCommerce Ready"
+msgstr ""
+
+#: inc/about/about.php:186
+#, php-format
+msgid "Get %s"
+msgstr ""
+
+#: inc/about/about.php:37
+msgid "Getting Started"
+msgstr ""
+
+#: inc/about/about.php:164
+msgid "Good Job Plugin Actiated"
+msgstr ""
+
+#: inc/about/about.php:195
+msgid "Google Font Support"
+msgstr ""
+
+#: inc/about/about.php:123
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to "
+"ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+#: inc/about/about.php:213
+msgid "Gutenberg Support"
+msgstr ""
+
+#: inc/customizer/customizer.php:278
+msgid "Header image height"
+msgstr ""
+
+#: inc/customizer/customizer.php:600
+msgid "Header tag Font Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:893
+msgid "Hidden"
+msgstr ""
+
+#: inc/customizer/customizer.php:213
+msgid "Hide Search"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:61
+msgid "Hide Shoping Basket"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://profiles.wordpress.org/nalam-1/"
+msgstr ""
+
+#: footer.php:38
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpthemespace.com/product/beshop/"
+msgstr ""
+
+#: inc/about/about.php:69
+msgid "INSTALL & ACTIVE PLUGIN"
+msgstr ""
+
+#: inc/about/about.php:66
+msgid "Install & Active Recommended Plugin"
+msgstr ""
+
+#: inc/about/about.php:135 inc/about/about.php:162
+msgid "Install and Activate"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/customizer.php:51 inc/customizer/customizer.php:103
+msgid "Lato"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:109 inc/woo-items/customizer-woo.php:159
+#: inc/woo-items/customizer-woo.php:351 inc/woo-items/customizer-woo.php:465
+#: inc/woo-items/customizer-woo.php:499
+msgid "Left"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:77
+msgid "Left Side"
+msgstr ""
+
+#: inc/customizer/customizer.php:723 inc/customizer/customizer.php:842
+#: inc/woo-items/customizer-woo.php:432
+msgid "Left Sidebar"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/customizer/customizer.php:741
+msgid "List over Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:742
+msgid "List Style"
+msgstr ""
+
+#: inc/customizer/customizer.php:386
+msgid "Logo center"
+msgstr ""
+
+#: inc/customizer/customizer.php:385
+msgid "Logo left"
+msgstr ""
+
+#: inc/customizer/customizer.php:387
+msgid "Logo right"
+msgstr ""
+
+#: template-parts/header/header-main-menu.php:25
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:548
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:487
+msgid "Menu center"
+msgstr ""
+
+#: inc/customizer/customizer.php:564
+msgid "Menu dropdown Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:532
+msgid "Menu font Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:515
+msgid "Menu item font size"
+msgstr ""
+
+#: inc/customizer/customizer.php:486
+msgid "Menu left"
+msgstr ""
+
+#: inc/customizer/customizer.php:488
+msgid "Menu right"
+msgstr ""
+
+#: inc/customizer/customizer.php:500
+msgid "Menu top bottom padding"
+msgstr ""
+
+#: inc/plugin-recomend.php:88
+msgid "MG Blocks"
+msgstr ""
+
+#: inc/plugin-recomend.php:83
+msgid "MG post Display"
+msgstr ""
+
+#: inc/customizer/customizer.php:52 inc/customizer/customizer.php:104
+msgid "Montserrat"
+msgstr ""
+
+#: inc/woo-items/beshop-woocommerce.php:245
+msgid "Name"
+msgstr ""
+
+#: inc/about/about.php:168
+msgid "Need to active the plugin with BeBoost plugin for demo import."
+msgstr ""
+
+#: single.php:41
+msgid "Next:"
+msgstr ""
+
+#. Author of the theme
+msgid "Noor Alam"
+msgstr ""
+
+#: inc/customizer/customizer.php:121
+msgid "Normal"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer/customizer.php:48 inc/customizer/customizer.php:100
+msgid "Noto Serif"
+msgstr ""
+
+#: inc/about/about.php:231
+msgid "One Click Checkout"
+msgstr ""
+
+#: inc/plugin-recomend.php:78 inc/about/about.php:68 inc/about/about.php:75
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/about/about.php:77
+#, php-format
+msgid ""
+"One Click Demo import is an awesome feature. Bishop Theme gives you these "
+"awesome features for free!! %1$s should be installed and activated. After "
+"plugin is activated, visit Import Demo Data menu under Appearance. Now "
+"choose and hit the import demo button. Wow!! your site is ready now with "
+"awesome style."
+msgstr ""
+
+#: inc/about/about.php:167
+msgid "One Click Demo Improt"
+msgstr ""
+
+#: inc/about/about.php:219
+msgid "One Click Demo Installation"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/customizer.php:50 inc/customizer/customizer.php:102
+msgid "Open Sans"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:892
+msgid "Optional"
+msgstr ""
+
+#: inc/customizer/customizer.php:817
+msgid "Page Container type"
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:58
+msgid "Pages:"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:189
+msgid "Pagination Background Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:174
+msgid "Pagination Text Color"
+msgstr ""
+
+#: inc/about/about.php:104
+msgid ""
+"Please check our full video documentation for detailed information on how to "
+"setup and customize the theme. You may see all videos for beshop theme "
+"better understanding"
+msgstr ""
+
+#: inc/customizer/customizer.php:47 inc/customizer/customizer.php:99
+msgid "Poppins"
+msgstr ""
+
+#: inc/customizer/customizer.php:212
+msgid "Popup Search"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: footer.php:39
+msgid "Powered by WordPress"
+msgstr ""
+
+#: single.php:40
+msgid "Previous:"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:621
+msgid "Products Background Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:104
+msgid "Products Breadcrumb Position"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:681
+msgid "Products button background color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:711
+msgid "Products button color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:696
+msgid "Products button hover background color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:726
+msgid "Products button hover color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:154
+msgid "Products Pagination Position"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:666
+msgid "Products Price Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:651
+msgid "Products Rating Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:636
+msgid "Products Title Color"
+msgstr ""
+
+#: inc/about/about.php:243
+msgid "QR Code Feature Support"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/about/about.php:38
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/about/about.php:267
+msgid "Remove or edit Footer Cradit link"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:891
+msgid "Required"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:111 inc/woo-items/customizer-woo.php:161
+#: inc/woo-items/customizer-woo.php:353 inc/woo-items/customizer-woo.php:467
+#: inc/woo-items/customizer-woo.php:501
+msgid "Right"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:426
+msgid ""
+"Right and Left sidebar only show when shop sidebar widget is available. "
+msgstr ""
+
+#: inc/customizer/customizer.php:717 inc/customizer/customizer.php:836
+msgid "Right and Left sidebar only show when sidebar widget is available. "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:78
+msgid "Right Side"
+msgstr ""
+
+#: inc/customizer/customizer.php:722 inc/customizer/customizer.php:841
+#: inc/woo-items/customizer-woo.php:431
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:49 inc/customizer/customizer.php:101
+msgid "Roboto"
+msgstr ""
+
+#. %s: search query.
+#: search.php:38
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/customizer.php:716
+msgid "Select Blog Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:736
+msgid "Select Blog Style"
+msgstr ""
+
+#: inc/about/about.php:78
+msgid "Select Demo"
+msgstr ""
+
+#: inc/customizer/customizer.php:205
+msgid "Select header topbar search type"
+msgstr ""
+
+#: inc/customizer/customizer.php:380
+msgid "Select Logo Position"
+msgstr ""
+
+#: inc/customizer/customizer.php:481
+msgid "Select Menu Position"
+msgstr ""
+
+#: inc/customizer/customizer.php:835
+msgid "Select Page Layout"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:602
+msgid "Select Products Style"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:425
+msgid "Select Shop Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:42
+msgid "Select theme body Font"
+msgstr ""
+
+#: inc/customizer/customizer.php:94
+msgid "Select theme header Font"
+msgstr ""
+
+#: inc/customizer/customizer.php:122
+msgid "Semi Bold"
+msgstr ""
+
+#: inc/about/about.php:201
+msgid "SEO & SMM Friendly"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:494
+msgid ""
+"Set filter widget from widget section for fiilter shop page products. You "
+"can set posotion filiter items by this opiton."
+msgstr ""
+
+#: inc/customizer/customizer.php:423
+msgid "Set header middle section height"
+msgstr ""
+
+#: inc/customizer/customizer.php:315
+msgid "Set Image Logo height"
+msgstr ""
+
+#: inc/customizer/customizer.php:298
+msgid "Set Image Logo Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:516
+msgid "Set menu item font size. Font size set by px"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:583
+msgid "Set Product Per row"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:749
+msgid "Set single product title font size."
+msgstr ""
+
+#: inc/customizer/customizer.php:361
+msgid "Set Site Tagline Font Size"
+msgstr ""
+
+#: inc/about/about.php:93
+msgid "Set Widgets"
+msgstr ""
+
+#: inc/customizer/customizer.php:424
+msgid "Set your header middle section height. Leave empty for auto height."
+msgstr ""
+
+#: inc/customizer/customizer.php:316
+msgid "Set your site logo height. Leave empty for auto height."
+msgstr ""
+
+#: inc/customizer/customizer.php:299
+msgid "Set your site logo Width."
+msgstr ""
+
+#: inc/customizer/customizer.php:362
+msgid "Set your site tabline font size."
+msgstr ""
+
+#: inc/customizer/customizer.php:346
+msgid "Set your site title font size."
+msgstr ""
+
+#: inc/woo-items/beshop-woocommerce.php:205
+#: inc/woo-items/customizer-woo.php:441
+msgid "Shop"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:288
+msgid "Shop Banner Button text"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:302
+msgid "Shop Banner Button url"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:274
+msgid "Shop Banner Description"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:244
+msgid "Shop Banner Subtitle"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:260
+msgid "Shop Banner Title"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:407
+msgid "Shop Container type"
+msgstr ""
+
+#: woocommerce.php:20 inc/woo-items/customizer-woo.php:281
+msgid "Shop Now"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:197
+msgid "Shop Page Banner"
+msgstr ""
+
+#: inc/woo-items/beshop-woocommerce.php:140
+msgid "Shop Page products fileter top widget."
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:446
+msgid "Shop Page Title"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:493
+msgid "Shop Page Top Widget Position"
+msgstr ""
+
+#: inc/woo-items/beshop-woocommerce.php:138
+msgid "Shop Page Top Widget."
+msgstr ""
+
+#: inc/woo-items/beshop-woocommerce.php:129
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:480
+msgid "Shop Title Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:544
+msgid "Shop Top Widget Background Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:514
+msgid "Shop Top Widget Text Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:529
+msgid "Shop Top Widget Text Hover Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:72
+msgid "Shoping Basket Position"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:54
+msgid "Shoping Basket Visibility"
+msgstr ""
+
+#: inc/woo-items/beshop-woocommerce.php:101
+msgid "Shopping Cart "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:60
+msgid "Show All Page"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:379
+msgid "Show banner overlay? "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:819
+msgid "Show Categories "
+msgstr ""
+
+#: inc/customizer/customizer.php:407
+msgid "Show header Middle? "
+msgstr ""
+
+#: inc/customizer/customizer.php:174
+msgid "Show header topbar menu? "
+msgstr ""
+
+#: inc/customizer/customizer.php:145
+msgid "Show header topbar? "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:872
+msgid "Show Last Nama Field"
+msgstr ""
+
+#: inc/customizer/customizer.php:462
+msgid "Show Logo in the Main Menu section? "
+msgstr ""
+
+#: inc/customizer/customizer.php:447
+msgid "Show Main Menu section? "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:59
+msgid "Show Only Shop Page"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:905
+msgid "Show Postcode / ZIP"
+msgstr ""
+
+#: inc/customizer/customizer.php:769
+msgid "Show Posts Author? "
+msgstr ""
+
+#: inc/customizer/customizer.php:756
+msgid "Show Posts Date? "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:570
+msgid "Show Products Order? "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:778
+msgid "Show Rating "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:858
+msgid "Show Related Products"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:557
+msgid "Show Result Count? "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:792
+msgid "Show Short description "
+msgstr ""
+
+#: inc/customizer/customizer.php:782
+msgid "Show Single Posts Categories? "
+msgstr ""
+
+#: inc/customizer/customizer.php:795
+msgid "Show Single Posts tags? "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:806
+msgid "Show SKU"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:845
+msgid "Show Tab"
+msgstr ""
+
+#: inc/customizer/customizer.php:330
+msgid "Show tagline background? "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:832
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer/customizer.php:875
+msgid "Show Top Footer? "
+msgstr ""
+
+#: inc/about/about.php:105
+msgid "Show video"
+msgstr ""
+
+#: inc/about/about.php:102
+msgid "Show Video tutorial"
+msgstr ""
+
+#: functions.php:138
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:211
+msgid "Simple Search"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:735
+msgid "Single Product Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:116
+msgid "Site header font weight"
+msgstr ""
+
+#: inc/customizer/customizer.php:345
+msgid "Site Title Font Size"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/customizer.php:704 inc/woo-items/customizer-woo.php:413
+msgid "Standard Container"
+msgstr ""
+
+#: inc/customizer/customizer.php:823
+msgid "Standard Page Container"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:607
+msgid "Style One"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:608
+msgid "Style Two"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:346
+msgid "Text Position"
+msgstr ""
+
+#: inc/customizer/customizer.php:863 inc/customizer/customizer.php:950
+msgid "The beshop footer settings options "
+msgstr ""
+
+#: inc/customizer/customizer.php:395
+msgid "The beshop header middle section "
+msgstr ""
+
+#: inc/customizer/customizer.php:435
+msgid ""
+"The beshop main menu section. You need to add menu from WordPress menu setup "
+"for display the menu manu "
+msgstr ""
+
+#: inc/customizer/customizer.php:686
+msgid "The beshop theme blog options "
+msgstr ""
+
+#: inc/customizer/customizer.php:805
+msgid "The beshop theme Page options "
+msgstr ""
+
+#: inc/about/about.php:95
+msgid ""
+"The BeShop theme support three different widget position. There are Sidebar, "
+"Footer Widget and Shop Sidebar. Sidebar will show blog and page, Footer "
+"Widget will show all posts and pages footer and Shop sidebar will show shop "
+"page only."
+msgstr ""
+
+#: inc/customizer/customizer.php:133
+msgid "The beshop topbar options "
+msgstr ""
+
+#: inc/customizer/customizer.php:645
+msgid "Theme Basic Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:661
+msgid "Theme Link Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:677
+msgid "Theme Link Hover Color"
+msgstr ""
+
+#: inc/about/about.php:85
+msgid "Theme Options"
+msgstr ""
+
+#: inc/about/about.php:112
+msgid "Theme Preview"
+msgstr ""
+
+#: inc/about/about.php:132
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable WooCommerce only if you are using e-commerce."
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:44
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:590
+msgid "Three Products"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:765
+msgid "Title Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:460
+msgid "Title Position"
+msgstr ""
+
+#: inc/customizer/customizer.php:583
+msgid "Title tag background Color"
+msgstr ""
+
+#: functions.php:53
+msgid "Top Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:227
+msgid "Topbar Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:259
+msgid "Topbar link hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:243
+msgid "Topbar text Color"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:591
+msgid "Two Products"
+msgstr ""
+
+#: inc/about/about.php:173
+msgid "UPGRADE beshop PRO"
+msgstr ""
+
+#: inc/about/about.php:46
+msgid "Upgrade Beshop Pro"
+msgstr ""
+
+#: inc/about/about.php:298
+msgid "Upgrade Pro"
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:228
+msgid "Upload Shop Image"
+msgstr ""
+
+#: inc/about/about.php:39
+msgid "Useful Plugins"
+msgstr ""
+
+#: inc/about/about.php:134
+msgid "Version: "
+msgstr ""
+
+#: inc/about/about.php:115
+msgid "View Demo"
+msgstr ""
+
+#: inc/about/about.php:57
+msgid "View Details & Demo"
+msgstr ""
+
+#: inc/customizer/customizer.php:160
+msgid "Welcome text"
+msgstr ""
+
+#. Main welcome title
+#: inc/about/about.php:30
+#, php-format
+msgid "Welcome to %s! - Version "
+msgstr ""
+
+#: inc/customizer/customizer.php:155 template-parts/header/header-top.php:9
+msgid "Welcome to Our Website"
+msgstr ""
+
+#: inc/plugin-recomend.php:68
+msgid "Woocommerce"
+msgstr ""
+
+#: template-parts/header/header-top.php:67
+msgid "Wp Theme Space"
+msgstr ""
+
+#: inc/about/about.php:114
+msgid ""
+"You can check out the theme demos for reference to find out what you can "
+"achieve using the theme and how it can be customized. Theme demo only work "
+"in pro theme"
+msgstr ""
+
+#: inc/customizer/customizer.php:818
+msgid "You can set standard container or full width container for page. "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:408
+msgid "You can set standard container or full width container for shop. "
+msgstr ""
+
+#: inc/customizer/customizer.php:699
+msgid "You can set standard container or full width container. "
+msgstr ""
+
+#: inc/customizer/customizer.php:30
+msgid "You can setup BeShop theme typography by these options."
+msgstr ""
+
+#: inc/customizer/customizer.php:463
+msgid "You can show logo in the header main menu section."
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:380
+msgid "You can show or hide banner overlay."
+msgstr ""
+
+#: inc/customizer/customizer.php:876
+msgid ""
+"You can show or hide footer top section.The section only visible when you "
+"will set footer widget. "
+msgstr ""
+
+#: inc/customizer/customizer.php:448
+msgid "You can show or hide header main menu section."
+msgstr ""
+
+#: inc/customizer/customizer.php:408
+msgid ""
+"You can show or hide header middle section. And can show logo in menu bar"
+msgstr ""
+
+#: inc/customizer/customizer.php:331
+msgid "You can show or hide header tagline background."
+msgstr ""
+
+#: inc/customizer/customizer.php:146
+msgid "You can show or hide header topbar."
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:91
+msgid "You can show or hide shop breadcrumb."
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:212
+msgid "You can show or hide shop page banner."
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:779
+msgid ""
+"You can show or hide single product rating. Rating only show when rating "
+"available."
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:793
+msgid "You can show or hide single product short description."
+msgstr ""
+
+#: inc/customizer/customizer.php:175
+msgid ""
+"You can show or hide topbar menu. You need to add menu from menu section for "
+"display menu."
+msgstr ""
+
+#: inc/customizer/customizer.php:206
+msgid "You can show two different way or hide topbar search. "
+msgstr ""
+
+#: inc/woo-items/customizer-woo.php:229
+msgid "You can upload shop image by this option"
+msgstr ""
+
+#: inc/about/about.php:68
+msgid ""
+"You need to instsll and active all recomended plugin. If you want to run "
+"your site like demo then you need to install all recomended plugin. Beshop "
+"theme work fine without any plugin but if you want to use extra features and "
+"benefits then need to active all recommended plugin. "
+msgstr ""
+
+#: inc/about/about.php:174
+msgid ""
+"You will get more frequent updates and quicker support with the Pro version."
+msgstr ""
+
+#: inc/about/about.php:237
+msgid "Youtube Video Support for products"
+msgstr ""
