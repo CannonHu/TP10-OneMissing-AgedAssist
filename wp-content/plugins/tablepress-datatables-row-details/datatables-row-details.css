@@ -1,10 +1,10 @@
 .tablepress-row-details tbody tr td.row-details-toggle {
 	vertical-align: middle;
-	width: 20px;
+	width: 40px;
 }
 .tablepress-row-details .row-details-toggle div {
-	width: 20px;
-	height: 20px;
+	width: 40px;
+	height: 40px;
 	cursor: pointer;
 }
 .tablepress-row-details .row-details-toggle .row-details-open {

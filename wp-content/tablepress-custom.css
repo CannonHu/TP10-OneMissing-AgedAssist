@@ -8,16 +8,26 @@
 	font-weight: bold;
 }
 
+.tablepress-id-3 tbody td {
+	padding: 16px !important;
+}
+
 .tablepress-id-3 .column-1 {
-	width: 3000px;
+	width: 24rem;
+	font-weight: bold;
+	font-size: 1.2rem;
 }
 
 .tablepress-id-3 .column-2 {
-	width: 500px;
+	width: 10rem;
 }
 
 .tablepress-id-3 .column-3 {
-	width: 500px;
+	width: 30rem;
+}
+
+.tablepress-id-3 .column-4 {
+	width: 10rem;
 }
 
 .tablepress-id-4 .column-1 {
@@ -41,5 +51,33 @@
 }
 
 .tablepress-id-7 .column-3 {
+	width: 500px;
+}
+
+.tablepress-id-9 .column-1 {
+	width: 2000px;
+}
+
+.tablepress-id-9 .column-2 {
+	width: 500px;
+}
+
+.tablepress-id-9 .column-5 {
+	width: 1000px;
+}
+
+.tablepress-id-10 .column-1 {
+	width: 1000px;
+}
+
+.tablepress-id-10 .column-2 {
+	width: 500px;
+}
+
+.tablepress-id-10 .column-3 {
+	width: 500px;
+}
+
+.tablepress-id-10 .column-4 {
 	width: 500px;
 }
