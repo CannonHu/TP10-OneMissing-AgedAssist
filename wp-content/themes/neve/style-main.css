@@ -320,7 +320,6 @@ h5,
 h6 {
   text-transform: none;
   letter-spacing: 0;
-  font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, var(--nv-fallback-ff);
   line-height: 1.68421;
   margin-bottom: 0.8rem;
   font-weight: 600;
@@ -1302,7 +1301,7 @@ fieldset input[type="text"], fieldset input[type="search"], fieldset input[type=
   color: var(--nv-text-color);
 }
 
-.nv-meta-list .posted-on .updated {
+.nv-meta-list .posted-on:not(.nv-show-updated) .updated {
   display: none;
 }
 

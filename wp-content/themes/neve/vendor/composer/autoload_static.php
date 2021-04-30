@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit5efefd2d55082a3b7ec8d8f8f03ca692
+class ComposerStaticInit00e3857043dbfb446068ab38bb14b82d
 {
     public static $files = array (
         'c730ac5ba4946398dd12db7e8d42d1c8' => __DIR__ . '/..' . '/codeinwp/themeisle-sdk/load.php',
@@ -74,9 +74,9 @@ class ComposerStaticInit5efefd2d55082a3b7ec8d8f8f03ca692
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit5efefd2d55082a3b7ec8d8f8f03ca692::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit5efefd2d55082a3b7ec8d8f8f03ca692::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit5efefd2d55082a3b7ec8d8f8f03ca692::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit00e3857043dbfb446068ab38bb14b82d::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit00e3857043dbfb446068ab38bb14b82d::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit00e3857043dbfb446068ab38bb14b82d::$classMap;
 
         }, null, ClassLoader::class);
     }

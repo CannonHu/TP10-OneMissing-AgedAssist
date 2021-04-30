@@ -25,24 +25,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'v2.10.4',
-    'version' => '2.10.4.0',
+    'pretty_version' => 'v2.11.1',
+    'version' => '2.11.1.0',
     'aliases' => 
     array (
     ),
-    'reference' => '5743cb610f59a7ef98ca2b5d03739becda8719a0',
+    'reference' => '4186d70efed6b96f9f7476d8451fba6a1c28eb71',
     'name' => 'codeinwp/neve',
   ),
   'versions' => 
   array (
     'codeinwp/neve' => 
     array (
-      'pretty_version' => 'v2.10.4',
-      'version' => '2.10.4.0',
+      'pretty_version' => 'v2.11.1',
+      'version' => '2.11.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => '5743cb610f59a7ef98ca2b5d03739becda8719a0',
+      'reference' => '4186d70efed6b96f9f7476d8451fba6a1c28eb71',
     ),
     'codeinwp/themeisle-sdk' => 
     array (
@@ -52,6 +52,15 @@ private static $installed = array (
       array (
       ),
       'reference' => 'abb31e2382fd8c40bcc18d7c9f3501d14bf48e87',
+    ),
+    'wptt/webfont-loader' => 
+    array (
+      'pretty_version' => 'v1.1.1',
+      'version' => '1.1.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '7243420fec7f202a9355485b8533bd99a7654941',
     ),
   ),
 );
