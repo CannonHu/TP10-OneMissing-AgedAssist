@@ -8,10 +8,33 @@
 	font-weight: bold;
 }
 
+table.tablepress {
+	width: 75rem !important;
+}
+
+.tablepress td.column-1 {
+	width: 35%;
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+
+.tablepress td.column-2 {
+	width: 15%;
+}
+
+.tablepress td.column-3 {
+	width: 32%;
+}
+
+.tablepress .column-4 {
+	width: 16%;
+}
+
 .tablepress-id-3 tbody td {
 	padding: 16px !important;
 }
 
+/*
 .tablepress-id-3 .column-1 {
 	width: 24rem;
 	font-weight: bold;
@@ -126,4 +149,4 @@
 
 .tablepress-id-13 .column-4 {
 	width: 700px;
-}
+}*/
