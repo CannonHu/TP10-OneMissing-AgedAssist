@@ -34,6 +34,11 @@ table.tablepress {
 	padding: 16px !important;
 }
 
+.row-details span.row-details-left {
+	font-weight: bold;
+	font-size: 1.1rem;
+}
+
 /*
 .tablepress-id-3 .column-1 {
 	width: 24rem;

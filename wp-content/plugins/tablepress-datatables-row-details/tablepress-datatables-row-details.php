@@ -172,7 +172,7 @@ function tablepress_add_row_details_js_command( $command, $html_id, $parameters,
 		// Multiple columns case.
 		$row_details_output = '';
 		foreach ( $columns as $column ) {
-			$row_details_output .= '\'<span class="row-details-left row-details-left-column-' . $column . '">\' + headers[' . $column . '] + \': </span><span class="row-details-right row-details-right-column-' . $column . '">\' + row[' . $column . '] + \'</span><br />\' + ';
+			$row_details_output .= '\'<span class="row-details-left row-details-left-column-' . $column . '">\' + headers[' . $column . '] + \'</span><br /><span class="row-details-right row-details-right-column-' . $column . '">\' + row[' . $column . '] + \'</span><br /><br />\' + ';
 		}
 		$row_details_output .= '""'; // for the last "+" in the JS
 	} else {

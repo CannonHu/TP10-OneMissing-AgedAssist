@@ -58,14 +58,14 @@ if($time_format === '12hours' ){
 	$event_categories = wp_get_post_terms( $event_id, $importevents->cpt->get_event_categroy_taxonomy() );
 	if( !empty( $event_categories ) ){
 		foreach ($event_categories as $event_category ) {
-			$eve_cats[] = '<a href="'. esc_url( get_term_link( $event_category->term_id ) ).'">' . $event_category->name. '</a>';
+			$eve_cats[] = '<a target="_blank" href="'. esc_url( get_term_link( $event_category->term_id ) ).'">' . $event_category->name. '</a>';
 		}
 	}
 
 	$event_tags = wp_get_post_terms( $event_id, $importevents->cpt->get_event_tag_taxonomy() );
 	if( !empty( $event_tags ) ){
 		foreach ($event_tags as $event_tag ) {
-			$eve_tags[] = '<a href="'. esc_url( get_term_link( $event_tag->term_id ) ).'">' . $event_tag->name. '</a>';
+			$eve_tags[] = '<a target="_blank" href="'. esc_url( get_term_link( $event_tag->term_id ) ).'">' . $event_tag->name. '</a>';
 		}
 	}
 
@@ -86,7 +86,7 @@ if($time_format === '12hours' ){
 
     <?php if( $website != '' ){ ?>
     	<strong><?php esc_html_e( 'Click to Register','wp-event-aggregator' ); ?>:</strong>
-    	<a href="<?php echo esc_url( $website ); ?>"><?php _e( "Click to Register", 'wp-event-aggregator' ); ?></a>
+    	<a target="_blank" href="<?php echo esc_url( $website ); ?>"><?php _e( "Click to Register", 'wp-event-aggregator' ); ?></a>
     <?php } ?>
 
   </div>
