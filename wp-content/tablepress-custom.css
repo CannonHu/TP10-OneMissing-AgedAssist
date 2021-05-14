@@ -39,6 +39,10 @@ table.tablepress {
 	font-size: 1.1rem;
 }
 
+.dataTables_paginate a {
+	margin: 0 1.5rem !important;
+}
+
 /*
 .tablepress-id-3 .column-1 {
 	width: 24rem;
